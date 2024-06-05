@@ -1,0 +1,20 @@
+{
+  "name": "array_filter_get_unique_element",
+  "version": "1.0.0",
+  "description": "array filter get unique element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array filter get unique element",
+    "unique element from array without repeating value"
+ 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Venkat6526/array_filter_get_unique_element.git"
+  },
+  "author": "Venkat6526",
+  "license": "ISC"
+}
